@@ -1,0 +1,6 @@
+@ToDoApi_Havira_HostAddress = http://localhost:5022
+
+GET {{ToDoApi_Havira_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
